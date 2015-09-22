@@ -1,2 +1,2 @@
 # datasciencecoursera
-Required for a Coursera project
+This directory is created due to a task in a Data Science course in Coursera
